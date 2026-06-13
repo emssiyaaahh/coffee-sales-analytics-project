@@ -443,11 +443,17 @@ This makes the project relevant for:
 
 ## 🧑‍💼 Journal Entry 
 
-This project analyzes coffee sales transaction data to identify revenue trends, product performance, customer behavior, and sales opportunities.
+For this project, I analyzed a coffee sales dataset to understand sales performance, product trends, customer behavior, and revenue opportunities.
 
-I cleaned and combined multiple CSV files, handled missing values and duplicates, created new time-based features, and used Python and SQL to analyze sales performance. I also designed a dashboard structure with KPIs such as total revenue, total orders, average order value, best-selling product, highest-revenue product, peak sales hour, and customer purchase frequency.
+I started by cleaning and combining the 2024 and 2025 transaction files. I handled missing values, removed duplicate records, fixed date and datetime formats, standardized product names, and created new columns such as month, day of week, hour, and product category.
 
-The main business value of this project is that it helps a coffee business understand what products drive revenue, when customers buy the most, and how the company can improve sales through better promotions, inventory planning, and loyalty strategies.
+After cleaning the data, I used Python for exploratory data analysis and SQL for business queries. I calculated key metrics such as total revenue, total orders, average order value, top-selling products, monthly revenue, payment method performance, and customer purchase frequency.
+
+The main business value of the project is that it helps a coffee business understand which products drive sales, when customers buy the most, and how the business can increase revenue. For example, the analysis showed that Latte generated the highest revenue, Americano with Milk had the highest number of orders, card payments were the most common, and morning hours had strong sales activity.
+
+Based on these insights, I recommended promoting high-performing products, creating morning bundles, using repeat customer data for loyalty offers, and reviewing low-performing products.
+
+This project shows my ability to clean raw data, analyze business performance, create KPIs, write SQL queries, build dashboard plans, and communicate insights in a way that supports business decisions.
 
 ---
 
