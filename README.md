@@ -1,2 +1,2 @@
 # coffee-sales-analytics-project
-End-to-end coffee sales analytics project using Python, SQL, and Power BI to analyze revenue trends, product performance, customer behavior, and business growth opportunities.
+From coffee transactions to business decisions — this project transforms raw sales data into revenue insights, product strategy, and customer behavior recommendations.
